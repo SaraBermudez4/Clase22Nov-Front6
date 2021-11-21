@@ -1,0 +1,139 @@
+/* principal */
+
+#home {
+    background: var(--color-primary);
+    font-family: Nunito;
+    font-style: normal;
+}
+
+p {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+button:focus:not(:focus-visible) {
+    outline: 0;
+    opacity: 50%;
+}
+
+/* header */
+.btn-categoria-1, .btn-categoria-2 {
+    border-radius: 8px;
+    padding: 8px;
+    background: var(--color-black);
+    width: 155px;
+    height: 80px;
+    left: 172px;
+    top: 0px;
+}
+
+/* main */
+
+.grid-elementos {
+    justify-content: center;
+}
+
+.elementos {
+    width: 20%;
+}
+
+.card {
+    border: none;
+}
+
+.card-img {
+    border-radius: 16px;
+    border: none;
+    margin-bottom: 15px;
+    width: 200px;
+    height: 300px;
+}
+
+.card-title {
+    color: white;
+    margin-top: 115%;
+}
+
+.card-text {
+    color: #CDCDCD;
+}
+
+.card-img-overlay {
+    width: 200px !important;
+    height: 300px !important;
+    box-shadow: inset 0px -51px 40px -15px #000000;
+    border-radius: 16px;
+}
+
+.bg-dark {
+    background-color: rgba(33, 37, 41, 0) !important;
+}
+
+.titulo {
+    padding-right: 40px;
+}
+
+.columna1, .columna2 {
+    margin-left: 165px;
+    margin-right: 135px;
+    width: 324px !important;
+}
+
+/* modal */
+
+.modal {
+    padding-top: 0px;
+    margin-top: 0px;
+    border-radius: 70px;
+}
+
+.modal-imagen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 327px;
+}
+
+.modal-texto {
+    text-align: center;
+}
+
+.modal-footer {
+    justify-content: center;
+}
+
+.btn-modal {
+    width: 345px !important;
+    padding: 26px !important;
+    border-radius: 98px;
+    background: var(--color-black);
+}
+
+.div-btn-modal {
+    text-align: center;
+}
+
+/* media querys */
+
+@media (min-width: 540px) {
+    .titulo {
+        text-align: center;
+        margin-top: 100px !important;
+        margin-bottom: 45px;
+    }
+
+    .btn-categorias {
+        text-align: center;
+        margin-bottom: 70px;
+    }
+
+    .btn-categoria-1, .btn-categoria-2 {
+        width: 300px;
+        height: 105px;
+    }
+
+    .div-categorias {
+        margin-bottom: 55px;
+    }
+}

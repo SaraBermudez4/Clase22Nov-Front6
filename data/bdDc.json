@@ -1,0 +1,76 @@
+{
+    "dc": [
+        {
+            "id": 1,
+            "nombre": "Heroe1",
+            "apodo": "apodo1",
+            "equipo": "equipo1",
+            "anio": "año1",
+            "personalidad": [
+                "personalidad1",
+                "personalidad1",
+                "personalidad1"
+            ],
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://dam.smashmexico.com.mx/wp-content/uploads/2019/03/shazam-portada.jpg",
+            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "categoria": "dc",
+            "usuario": "Juan Jesus",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Heroe2",
+            "apodo": "apodo2",
+            "equipo": "equipo2",
+            "anio": "año2",
+            "personalidad": [
+                "personalidad2",
+                "personalidad2",
+                "personalidad2"
+            ],
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 2500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 2960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://dam.smashmexico.com.mx/wp-content/uploads/2019/03/shazam-portada.jpg",
+            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "categoria": "dc",
+            "usuario": "Juan Jesus",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png"
+        },
+        {
+            "id": 3,
+            "nombre": "Heroe3",
+            "apodo": "apodo3",
+            "equipo": "equipo3",
+            "anio": "año3",
+            "personalidad": [
+                "personalidad3",
+                "personalidad3",
+                "personalidad3"
+            ],
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 3500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 3960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://dam.smashmexico.com.mx/wp-content/uploads/2019/03/shazam-portada.jpg",
+            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "categoria": "dc",
+            "usuario": "Juan Jesus",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png"
+        },
+        {
+            "id": 4,
+            "nombre": "Heroe4",
+            "apodo": "apodo4",
+            "equipo": "equipo4",
+            "anio": "año4",
+            "personalidad": [
+                "personalidad4",
+                "personalidad4",
+                "personalidad4"
+            ],
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 4500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 4960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://dam.smashmexico.com.mx/wp-content/uploads/2019/03/shazam-portada.jpg",
+            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "categoria": "dc",
+            "usuario": "Juan Jesus",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png"
+        }
+    ]
+}
